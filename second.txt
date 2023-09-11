@@ -1,2 +1,4 @@
 hello pawan kalyan
-welcome to nextwave 
+welcome to nextwave
+
+courses on aws,devops
